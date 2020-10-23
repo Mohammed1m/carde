@@ -5,6 +5,11 @@ the best cvc - ccv - cvv checker working 10000%
 ```
 just get card and http proxy :)
 ```
+# ss
+<br>
+<img src="تعليق توضيحي 2020-10-23 213709.png"></img>
+<br>
+
 # Developer:
 TELEGRAM: http://t.me/laganty  .&.  CHANNEL: http://t.me/L_DEVv
 
