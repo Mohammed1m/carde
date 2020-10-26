@@ -3,7 +3,12 @@ the best cvc - ccv - cvv checker working 10000%
 
 # usage
 ```
-just get card and http proxy :)
+sudo apt-get python3
+pip install requests
+git clone https://github.com/laganty/carde.git
+cd carde
+python3 carde.py
+
 ```
 # ss
 <br>
